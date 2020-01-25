@@ -1,6 +1,6 @@
 ---
 title: ASTRELION
-description: ASTRELION / Ashton
+description: ASTRELION // Ashton
 ---
 # Projects
 - Project 1
