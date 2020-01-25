@@ -1,6 +1,6 @@
 ---
 title: ASTRELION
-description: My GitHub projects
+description: ASTRELION / Ashton
 ---
 # Projects
 - Project 1
