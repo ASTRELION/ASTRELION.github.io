@@ -1,6 +1,6 @@
 ---
-title: Stuff
-description: More stuff
+title: ASTRELION
+description: My GitHub projects
 ---
 # Projects
 - Project 1
