@@ -1,6 +1,6 @@
 ---
 title: Stuff
-description: [Stuff!](https://dev.astrelion.com/)
+description: More stuff
 ---
 # Projects
 - Project 1
