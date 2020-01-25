@@ -1,6 +1,5 @@
 ---
-title: ASTRELION
-description: ASTRELION // Ashton
+title: My Projects
 ---
 # Projects
 Project list
