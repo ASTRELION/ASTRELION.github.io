@@ -2,4 +2,6 @@
 title: My Projects
 description: ASTRELION // Ashton
 ---
-# [Little Light](Little-Light)
+Click the buttons above to go to my GitHub profile or view all of my current repositories.
+# Projects
+## [Little Light](Little-Light)
