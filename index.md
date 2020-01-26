@@ -17,7 +17,8 @@ A generalist discord bot
 2D top-down game with a necromancer that's really bad at his job
 
 ## [Simple Digital](SimpleDigital)
-A Fitbit clockface
+A simple Fitbit clockface
+*[Store Link](https://gallery.fitbit.com/details/a2573b74-3ab8-4d91-9ed3-cfcb9f02810d)*
 
 <hr />
-[Back to top](#)
+*[Back to top](#)*
