@@ -14,8 +14,10 @@ A discord bot for Destiny 2 actions
 A generalist discord bot
 
 ## [Bad Necromancer](BadNecromancer)
+2D top-down game with a necromancer that's really bad at his job
 
 ## [Simple Digital](SimpleDigital)
+A Fitbit clockface
 
 <hr />
 [Back to top](#)
