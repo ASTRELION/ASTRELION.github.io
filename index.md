@@ -20,5 +20,11 @@ A generalist discord bot
 A simple Fitbit clockface  
 *[Fitbit Gallery Link](https://gallery.fitbit.com/details/a2573b74-3ab8-4d91-9ed3-cfcb9f02810d)*
 
+## (Binary Emulator)(BinaryEmulator)
+Binary emulator written in C for ARM assembly
+
+## GAME(GAME)
+SFML Raspberry Pi game console written for my group COM S 309 class
+
 <hr />
 *[Back to top](#)*
