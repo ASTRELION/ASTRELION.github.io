@@ -13,5 +13,9 @@ A discord bot for Destiny 2 actions
 ## [Atlas](Atlas)
 A generalist discord bot
 
+## [Bad Necromancer](BadNecromancer)
+
+## [Simple Digital](SimpleDigital)
+
 <hr />
-[Back top top](#)
+[Back to top](#)
