@@ -4,6 +4,7 @@ description: ASTRELION // Ashton
 ---
 
 Click the buttons above to go to my GitHub profile or view all of my current repositories.
+Below are a few of my favorite projects I've worked on. *Please note not all of them have their own page yet.*
 
 # Projects
 
