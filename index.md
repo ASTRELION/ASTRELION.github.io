@@ -24,7 +24,7 @@ A simple Fitbit clockface
 Binary emulator written in C for ARM assembly
 
 ## [GAME](GAME)
-SFML Raspberry Pi game console written for my group COM S 309 class
+Graphics Advanced Machine for Entertainment; a SFML Raspberry Pi game console written for my group COM S 309 class
 
 <hr />
 *[Back to top](#)*
