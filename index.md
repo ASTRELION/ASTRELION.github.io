@@ -3,8 +3,8 @@ title: My Projects
 description: ASTRELION // Ashton
 ---
 
-Click the buttons above to go to my GitHub profile or view all of my current repositories.
-Below are a few of my favorite projects I've worked on. *Please note not all of them have their own page yet.*
+Click the buttons above to go to my GitHub profile, view all of my current repositories, or view my company's products.
+Below are a few of my favorite projects I've worked on. *Please note not all of them have their own page yet. Please view my profile for their associated repository.*
 
 # Projects
 
